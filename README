@@ -1,1 +1,2 @@
-In order to verify the performance of ControlGAN, please modify words describing visual attributes (e.g., colour or parts of a bird) in the corresponding text files shown in the example_filenames.txt
+# Text-to-Image Conversion Using Stable Diffusion 
+The Text-to-Image Conversion Using Stable Diffusion project leverages a deep learning model to generate high-quality images from textual descriptions. By processing input text into latent embeddings and refining them through a denoising process, the Stable Diffusion model creates visually coherent and semantically accurate images that align with the provided text prompts.
